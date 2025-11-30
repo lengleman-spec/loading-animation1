@@ -27,10 +27,11 @@
   0%,
   100% {
     transform: scale(1);
+    background-color: rgb(95, 95, 95);
   }
 
   50% {
     transform: scale(1.2);
-    background-color: rgb(22, 22, 22);
+    background: gray;
   }
 }
