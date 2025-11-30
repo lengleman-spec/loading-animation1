@@ -14,7 +14,7 @@
 }
 
 .dot {
-  background: gray;
+  background-color: rgb(95, 95, 95);
   width: 60px;
   height: 60px;
   border-radius: 50%;
