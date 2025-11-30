@@ -4,6 +4,15 @@
   box-sizing: border-box;
 }
 
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  background-color: antiquewhite;
+  height: 100vh;
+}
+
 .dot {
   background: gray;
   border-radius: 50%;
